@@ -44,3 +44,7 @@ yarn-error.log*
 /.pnp
 .pnp.js
 # @end @expo/next-adapter
+
+# IDEs
+.idea
+.vscode
